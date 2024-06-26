@@ -16,3 +16,7 @@ pip install threaded
 cd DOS-fire
 
 python3 DOS-fire.py</h5>
+<hr>
+<h2>Windows user guide:</h2>
+
+<h5>https://github.com/imanh2002/DOS-fire/blob/main/DOS-fire.exe</h5>
